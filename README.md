@@ -16,11 +16,10 @@ Here are some ideas to get you started:
 
 # Welcome to My GitHub Profile!
 
-## About Me
-Hi👋, I'm Krystian, a 21-year-old computer science student at University of Silesia in Poland.
-
+## 🚀 About Me
+Hi👋, I'm Krystian, a 21-year-old computer science student.
+- 📚 I'm currently study at University of Silesia in Poland.
 - 🌱 Currently, I'm learning **programming in C++ and Java, as well as issues related to database systems**.
-- 💼 I'm currently working as a developer at XYZ Company.
 - 📫 How to reach me: beduch_krystian@o2.pl
 <p align="left">
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100009898243195" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100009898243195" height="30" width="40" /></a>
