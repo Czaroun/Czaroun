@@ -21,7 +21,7 @@ Hi👋, I'm Krystian, a 21-year-old computer science student.
 - 📚 I'm currently study at University of Silesia in Poland. I'm a graduate of an IT technical school
 - 🌱 Currently, I'm learning **programming in C++ and Java, as well as issues related to database systems**.
 - 📫 How to reach me: beduch_krystian@o2.pl
-<p align="left">
+<p align="left" style="text-decoration: none">
   <a href="https://fb.com/profile.php?id=100009898243195" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100009898243195" height="30" width="40" />
   </a>
@@ -31,7 +31,7 @@ Hi👋, I'm Krystian, a 21-year-old computer science student.
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<p align="left" style="text-decoration: none">
   <!--<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> --><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>  <!-- </a> -->
   <img width="5"/>
   <a href="https://www.w3schools.com/c/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" /> </a>
