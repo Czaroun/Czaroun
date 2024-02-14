@@ -13,7 +13,7 @@ Hi👋, I'm Krystian, a 21-year-old computer science student.
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100009898243195" height="30" width="40" />
   </a>
   <a href="https://discordapp.com/users/czaroun" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="65" height="35" alt="discord"  />
+    <img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="65" alt="discord"  />
   </a>
 </p>
 
