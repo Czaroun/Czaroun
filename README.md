@@ -8,6 +8,12 @@ Hi👋, I'm Krystian, a 21-year-old computer science student.
 - 📚 I'm currently study at University of Silesia in Poland. I'm a graduate of an IT technical school
 - 🌱 Currently, I'm learning **programming in C++ and Java, as well as issues related to database systems**.
 - 📫 How to reach me: beduch_krystian@o2.pl
+
+<style>
+        p{
+          text-decoration: none;
+        }
+</style>
 <p align="left" style="text-decoration: none">
   <a href="https://fb.com/profile.php?id=100009898243195" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100009898243195" height="30" width="40" />
