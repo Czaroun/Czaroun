@@ -9,6 +9,13 @@ Hi👋, I'm Krystian, a 21-year-old computer science student.
 - 🌱 Currently, I'm learning **programming in C++ and Java, as well as issues related to database systems**.
 - 📫 How to reach me: beduch_krystian@o2.pl
 
+
+<style>
+div.lp-pom-root .lp-pom-text a {
+        text-decoration: none;
+}
+</style>
+
 <p align="left" style="text-decoration: none">
   <a href="https://fb.com/profile.php?id=100009898243195" target="blank" style="text-decoration: none">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100009898243195" height="30" width="40" />
