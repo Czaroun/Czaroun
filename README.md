@@ -33,7 +33,7 @@ Hi👋, I'm Krystian, a 21-year-old computer science student.
 <h3 align="left">Languages and Tools:</h3>
 <p align="left" style="text-decoration: none">
   <!--<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> --><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>  <!-- </a> -->
- <img width="50" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="C++" title="C++"/>
+ <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img width="50" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="C++" title="C++"/></a>
   <img width="5"/>
   <a href="https://www.w3schools.com/c/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" /> </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
