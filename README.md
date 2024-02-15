@@ -12,10 +12,10 @@ Hi👋, I'm Krystian, a 21-year-old computer science student.
 
 <p align="left" style="text-decoration: none">
   <a href="https://fb.com/profile.php?id=100009898243195" target="blank" style="text-decoration: none">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100009898243195" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100009898243195" height="30" width="40" style="text-decoration: none" />
   </a>
   <a href="https://discordapp.com/users/czaroun" target="_blank" style="text-decoration: none">
-    <img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="35" height="35" alt="discord"  />
+    <img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="35" height="35" alt="discord" style="text-decoration: none" />
   </a>
 </p>
 
