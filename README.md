@@ -10,20 +10,14 @@ Hi👋, I'm Krystian, a 21-year-old computer science student.
 - 📫 How to reach me: beduch_krystian@o2.pl
 
 [<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100009898243195" height="30" width="40"/>](https://fb.com/profile.php?id=100009898243195)
-[<img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="35" height="35" alt="discord"/>](="https://discordapp.com/users/czaroun")
+[<img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="35" height="35" alt="discord"/>]("https://discordapp.com/users/czaroun")
+
+![<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100009898243195" height="30" width="40"/>](https://fb.com/profile.php?id=100009898243195)
+![<img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="35" height="35" alt="discord"/>]("https://discordapp.com/users/czaroun")
 
 
-<p align="left">
-  <a href="https://fb.com/profile.php?id=100009898243195" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100009898243195" height="30" width="40"/>
-  </a>
-  <a href="https://discordapp.com/users/czaroun" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="35" height="35" alt="discord" style="text-decoration: none" />
-  </a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+### Languages and Tools:
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img width="40" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="C++" title="C++"/> </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img width="40" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img width="40" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/> </a> 
@@ -38,4 +32,4 @@ Hi👋, I'm Krystian, a 21-year-old computer science student.
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img width="40" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" alt="Linux" title="Linux"/> </a>
   <a href="https://ubuntu.com" target="_blank" rel="noreferrer"> <img width="40" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" alt="Ubuntu" title="Ubuntu"/> </a>
   <a href="https://www.opensuse.org/" target="_blank" rel="noreferrer"> <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opensuse/opensuse-original.svg" alt="OpenSuse" title="OpenSuse"/> </a>
-</p>
+
