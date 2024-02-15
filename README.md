@@ -12,12 +12,12 @@ Hi👋, I'm Krystian, a 21-year-old computer science student.
 [<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100009898243195" height="30" width="40"/>](https://fb.com/profile.php?id=100009898243195)
 [<img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="35" height="35" alt="discord"/>]("https://discordapp.com/users/czaroun")
 
-![<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100009898243195" height="30" width="40"/>](https://fb.com/profile.php?id=100009898243195)
-![<img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="35" height="35" alt="discord"/>]("https://discordapp.com/users/czaroun")
+[ ![SAS](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100009898243195 "SAAAAS")](https://fb.com/profile.php?id=100009898243195)
 
 
 ### Languages and Tools:
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img width="40" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="C++" title="C++"/> </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img width="40" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img width="40" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/> </a> 
