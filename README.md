@@ -10,10 +10,10 @@ Hi👋, I'm Krystian, a 21-year-old computer science student.
 - 📫 How to reach me: beduch_krystian@o2.pl
 
 [<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100009898243195" height="30" width="40"/>](https://fb.com/profile.php?id=100009898243195)
-[<img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="35" height="35" alt="discord"/>]("https://discordapp.com/users/czaroun")
+[<img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="35" height="35" alt="discord"/>](https://discordapp.com/users/czaroun)
 
 ### Languages and Tools:
-[<img width="40" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="C++" title="C++"/>(https://www.w3schools.com/cpp/)]
+[<img width="40" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="C++" title="C++"/>](https://www.w3schools.com/cpp/)]
 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img width="40" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="C++" title="C++"/> </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img width="40" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/> </a>
