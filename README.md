@@ -11,6 +11,12 @@ Hi👋, I'm Krystian, a 21-year-old computer science student.
   
 [<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100009898243195" height="30" width="40" title="Facebook"/>](https://fb.com/profile.php?id=100009898243195)
 [<img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="35" height="35" alt="discord" title="Discord"/>](https://discordapp.com/users/czaroun)
+[<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[krystianbeduch](https://linkedin.com/in/krystianbeduch)" height="30" width="40" title="Linkedin"/>]("https://linkedin.com/in/krystianbeduch)
+
+<!--[]
+<p align="left">
+<a href="https://linkedin.com/in/krystianbeduch" target="blank"></a>
+</p> -->
 
 ### Languages and Tools:
 [<img width="40" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="C++" title="C++" />](https://www.w3schools.com/cpp/)
