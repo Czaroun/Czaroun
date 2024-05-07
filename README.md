@@ -17,8 +17,8 @@ Hi👋, I'm Krystian, a 21-year-old computer science student.
 
 [<img align="center" src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" alt="https://www.facebook.com/profile.php?id=100009898243195" height="35" title="Facebook"/>](https://fb.com/profile.php?id=100009898243195)
 [<img align="center" src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="https://discordapp.com/users/czaroun" title="Discord"/>](https://discordapp.com/users/czaroun)
-[<img align="center" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="https://linkedin.com/in/krystianbeduch" height="35" title="Linkedin"/>]("https://linkedin.com/in/krystianbeduch)
-<!-- [<img alignt="center" src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" alt="gmail logo" height="35" alt="gmail logo"  /> --> GMAIL
+[<img align="center" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="https://linkedin.com/in/krystianbeduch" height="35" title="Linkedin"/>](https://linkedin.com/in/krystianbeduch)
+<!-- [<img alignt="center" src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" alt="gmail logo" height="35" alt="gmail logo"  /> GMAIL --> 
 
 ### Languages and Tools:
 [<img width="40" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="C++" title="C++" />](https://www.w3schools.com/cpp/)
