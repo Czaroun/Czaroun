@@ -15,9 +15,9 @@ Hi👋, I'm Krystian, a 21-year-old computer science student.
 [<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[krystianbeduch](https://linkedin.com/in/krystianbeduch)" height="30" width="40" title="Linkedin"/>]("https://linkedin.com/in/krystianbeduch)
 -->
 
-[<img align="center" src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" alt="https://www.facebook.com/profile.php?id=100009898243195" height="35" width="40" title="Facebook"/>](https://fb.com/profile.php?id=100009898243195)
-[<img align="center" src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" width="35" height="35" alt="https://discordapp.com/users/czaroun" title="Discord"/>](https://discordapp.com/users/czaroun)
-[<img align="center" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="[krystianbeduch](https://linkedin.com/in/krystianbeduch)" height="30" width="40" title="Linkedin"/>]("https://linkedin.com/in/krystianbeduch)
+[<img align="center" src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" alt="https://www.facebook.com/profile.php?id=100009898243195" height="35" title="Facebook"/>](https://fb.com/profile.php?id=100009898243195)
+[<img align="center" src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="https://discordapp.com/users/czaroun" title="Discord"/>](https://discordapp.com/users/czaroun)
+[<img align="center" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="[krystianbeduch](https://linkedin.com/in/krystianbeduch)" height="30" title="Linkedin"/>]("https://linkedin.com/in/krystianbeduch)
 
 <!--
 <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
