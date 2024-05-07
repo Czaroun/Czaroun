@@ -8,15 +8,22 @@ Hi👋, I'm Krystian, a 21-year-old computer science student.
 - 📚 I'm currently study at University of Silesia in Poland. I'm a graduate of an IT technical school
 - 🌱 Currently, I'm learning **programming in C++ and Java, as well as issues related to database systems**.
 - 📫 How to reach me: beduch_krystian@o2.pl
-  
+
+<!--
 [<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100009898243195" height="30" width="40" title="Facebook"/>](https://fb.com/profile.php?id=100009898243195)
 [<img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="35" height="35" alt="discord" title="Discord"/>](https://discordapp.com/users/czaroun)
 [<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[krystianbeduch](https://linkedin.com/in/krystianbeduch)" height="30" width="40" title="Linkedin"/>]("https://linkedin.com/in/krystianbeduch)
+-->
 
+[<img align="center" src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" alt="https://www.facebook.com/profile.php?id=100009898243195" height="35" width="40" title="Facebook"/>](https://fb.com/profile.php?id=100009898243195)
+[<img align="center" src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" width="35" height="35" alt="https://discordapp.com/users/czaroun" title="Discord"/>](https://discordapp.com/users/czaroun)
+[<img align="center" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="[krystianbeduch](https://linkedin.com/in/krystianbeduch)" height="30" width="40" title="Linkedin"/>]("https://linkedin.com/in/krystianbeduch)
+
+<!--
 <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
 <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-
+-->
 <!--[]
 <p align="left">
 <a href="https://linkedin.com/in/krystianbeduch" target="blank"></a>
