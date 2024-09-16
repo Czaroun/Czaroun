@@ -6,7 +6,7 @@
 ## 🚀 About Me
 Hi👋, I'm Krystian, a 21-year-old computer science student.
 - 📚 I'm currently study at University of Silesia in Poland. I'm a graduate of an IT technical school
-- 🌱 Currently, I'm learning **programming in C++ and Java, as well as issues related to database systems**.
+- 🌱 Currently, I'm learning **Java programming using Spring Boot, as well as issues related to database systems**.
 - 📫 How to reach me: beduch_krystian@o2.pl
 
 <!--
