@@ -8,7 +8,7 @@ Hi👋, I'm Krystian, a 21-year-old computer science student.
 - 📚 I'm currently study at University of Silesia in Poland. I'm a graduate of an IT technical school
 - 🌱 Currently, I'm learning **Java programming using Spring Boot, as well as issues related to database systems**.
 - 📫 How to reach me: beduch_krystian@o2.pl
-- 🌐 Check out my portfolio: [Krystian Będuch Portoflio](https://krystianbeduch.github.io/?utm_source=github&utm_medium=profil&utm_campaign=portfolio)
+- 🌐 Check out my portfolio: [Krystian Będuch Portoflio](bit.ly/krystianbeduch)
   
 <!--
 [<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100009898243195" height="30" width="40" title="Facebook"/>](https://fb.com/profile.php?id=100009898243195)
