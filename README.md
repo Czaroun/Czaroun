@@ -1,10 +1,7 @@
-<!--
-**Czaroun/Czaroun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 # Welcome to My GitHub Profile!
 
 ## 🚀 About Me
-Hi👋, I'm Krystian, a 21-year-old computer science student.
+Hi👋, I'm Krystian, a 22-year-old computer science student.
 - 📚 I'm currently study at University of Silesia in Poland. I'm a graduate of an IT technical school
 - 🌱 Currently, I'm learning **Java** programming using **Spring Boot**, **database systems** issues and web technologies such as:
   - HTML
