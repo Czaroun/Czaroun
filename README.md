@@ -43,7 +43,7 @@ Hi👋, I'm Krystian, a 22-year-old computer science student.
 <!-- [<img width="40" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python" />](https://www.python.org)  Python -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krystianbeduch)](https://github.com/krystianbeduch/github-readme-stats) -->
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=krystianbeduch&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=codeSTACKr&hide_border=true&order=2" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=krystianbeduch&locale=en&hide_title=false&layout=compact&card_width=640&langs_count=6&theme=codeSTACKr&hide_border=true&order=2" height="150" alt="languages graph" />
 </div>
 
 ###
