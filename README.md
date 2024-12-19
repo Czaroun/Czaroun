@@ -41,4 +41,6 @@ Hi👋, I'm Krystian, a 22-year-old computer science student.
 <!-- [<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opensuse/opensuse-original.svg" alt="OpenSuse" title="OpenSuse" />](https://www.opensuse.org/) -->
 <!-- [<img width="40" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="C++" title="C++" />](https://www.w3schools.com/cpp/)  C++ -->
 <!-- [<img width="40" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python" />](https://www.python.org)  Python -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krystianbeduch)](https://github.com/krystianbeduch/github-readme-stats)
+
 
